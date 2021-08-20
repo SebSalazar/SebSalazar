@@ -8,7 +8,8 @@ A programmer very curious about new technologies, currently a student in the las
 - 👀 Interested in web development, testing and api-rest services
 - 📫 Reach me through my email personal **salazars804@gmail.com** o my [**Linkedln**](https://www.linkedin.com/in/sebsalazari/)
 
-You can see some of my projects in the repositories hosted in my profile, especially the pinned ones, wink wink! ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=SebSalazar&repo=SebSalazar&countColorcountColor&countColor=%234ea94b)
+You can see some of my projects in the repositories hosted in my profile, especially the pinned ones, wink wink! 
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=SebSalazar&repo=SebSalazar&countColorcountColor&countColor=%234ea94b)
 ***
 
 ## Skills and Technologies 🔧
