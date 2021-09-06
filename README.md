@@ -25,5 +25,7 @@ You can see some of my projects in the repositories hosted in my profile, especi
 <br>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> <img alt="ElasticSearch" src ="https://img.shields.io/badge/elasticsearch-%23FCCD34.svg?&style=for-the-badge&logo=elasticsearch&logoColor=black"/> 
 
-### Tools 
-<img alt="Postman" src="https://img.shields.io/badge/Postman-%23FA7343.svg?&style=for-the-badge&logo=postman&logoColor=white"/> <img alt="Heroku" src ="https://img.shields.io/badge/Heroku%20-%23663399.svg?&style=for-the-badge&logo=heroku&logoColor=white" /> <img alt="Arduino" src ="https://img.shields.io/badge/Arduino%20-%23000000.svg?&style=for-the-badge&logo=arduino&logoColor=blue" /> <img alt="Figma" src ="https://img.shields.io/badge/Figma-%2338B2AC.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+### Tools and Others
+<img alt="Postman" src="https://img.shields.io/badge/Postman-%23FA7343.svg?&style=for-the-badge&logo=postman&logoColor=white"/> <img alt="Figma" src ="https://img.shields.io/badge/Docker-%23119AD4.svg?&style=for-the-badge&logo=docker&logoColor=white"/> <img alt="Heroku" src ="https://img.shields.io/badge/Heroku%20-%23663399.svg?&style=for-the-badge&logo=heroku&logoColor=white" /> 
+<br>
+<img alt="Figma" src ="https://img.shields.io/badge/DevOPs-%2300A257.svg?&style=for-the-badge&logo=junit5&logoColor=0E2C41"/> <img alt="Arduino" src ="https://img.shields.io/badge/Arduino%20-%23000000.svg?&style=for-the-badge&logo=arduino&logoColor=blue" /> <img alt="Figma" src ="https://img.shields.io/badge/Figma-%2338B2AC.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
